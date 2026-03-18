@@ -1,13 +1,13 @@
 body {
-  font-family: Verdana, Arial, sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 1rem;
   color: black;
   margin: 0;
 }
 
 header {
-  background-color: rgb(7, 167, 153);
-  color: white;
+  background-color: rgb(7, 71, 167);
+  color: antiquewhite;
   padding: 5rem;
   text-align: center;
 }
