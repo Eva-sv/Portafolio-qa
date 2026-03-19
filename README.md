@@ -54,6 +54,6 @@ Se probó la **API del formulario de contacto** y se validó el correcto almacen
 ---
 
 ## 👩‍💻 Autora
-**Reyes Cuesta – QA Junior**  
-[🔗 LinkedIn](https://www.linkedin.com/in/reyescuesta)
+**Eva Saura – QA Junior**  
+[🔗 LinkedIn](www.linkedin.com/in/eva-saura-vizcarro-590111122)
 
