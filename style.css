@@ -18,7 +18,7 @@ header {
 }
 
 main {
-  padding: 5rem;
+  margin: 5rem;
   text-align: justify;
 }
 
@@ -92,28 +92,28 @@ input,
 textarea,
 select {
   width: 100%;
-  padding: 1rem;
-  margin-bottom: 1.5rem;
-  border: 1px solid #d5d3d3;
+  padding: 10px 0 10px 0;
+  margin-bottom: 1rem;
+  border: 1px solid #f7efef;
   border-radius: 0.5rem;
-  background-color: #cfcccc;
+  background-color: #f9f0f0;
 }
 
 button {
   width: 100%;
-  padding: 1rem;
-  background-color: rgb(85, 22, 22);
-  color: rgb(180, 157, 157);
+  padding: 1.5rem;
+  background-color: rgb(14, 55, 54);
+  color: rgb(223, 221, 221);
   border: none;
   border-radius: 0.5rem;
-  font-size: 1rem;
+
 }
 
 footer {
-  margin-top: 2rem;
+  margin-top: 1rem;
   padding: 1rem;
-  font-size: 0.9rem;
-  color: #6a6868;
+  font-size: 0.5rem;
+  color: #ebe8e8;
   text-align: center;
 }
 
@@ -121,7 +121,7 @@ table {
   width: 100%;
   border-collapse: collapse;
   table-layout: fixed; /* CLAVE */
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, sans-serif;
+  font-family: 'Trebuchet MS', sans-serif;
 }
 
 th, td {
@@ -133,7 +133,7 @@ th, td {
 }
 
 thead {
-  background-color: #a09e9e;
+  background-color: #f6f5f5;
 }
 
 /* Móvil */
