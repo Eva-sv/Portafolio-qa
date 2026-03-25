@@ -1,4 +1,4 @@
-CREATE TABLE usuarios (
+CREATE TABLE form (
   id SERIAL PRIMARY KEY, -- Auto-increment primary key,
   name VARCHAR(100), -- Optional, text
   email VARCHAR(100) UNIQUE NOT NULL, -- Required, no duplicated values allowed in that column, text

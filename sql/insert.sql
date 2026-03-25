@@ -1,4 +1,4 @@
-INSERT INTO usuarios (name, email, subject, age, message) VALUES
+INSERT INTO form (name, email, subject, age, message) VALUES
 ('ana','ana@gmail.com','information',NULL,'hello testing'),
 ('pedro','pedro@gmail.com','job',20,'pedro message'),
 ('maria','maria@yahoo.com','other',25,'test message'),
